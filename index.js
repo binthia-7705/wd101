@@ -64,7 +64,7 @@ const displayUserEntries = () => {
           <th class="px-4 py-2">Name</th>
           <th class="px-4 py-2">Email</th>
           <th class="px-4 py-2">Password</th>
-          <th class="px-4 py-2">Date of Birth</th>
+          <th class="px-4 py-2">Dob</th>
           <th class="px-4 py-2">Accepted Terms</th>
         </tr>
       </thead>
